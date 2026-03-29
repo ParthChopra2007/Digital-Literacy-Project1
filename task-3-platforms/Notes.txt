@@ -1,0 +1,8 @@
+Coding practice platforms like HackerRank, CodeChef, and HackerEarth help improve programming and problem-solving skills.
+These platforms provide beginner to advanced level questions and evaluate solutions automatically.
+Practising coding regularly helps in building logic, accuracy, and confidence for technical interviews.
+Cloud collaboration tools like Google Forms and Google Sheets are useful for collecting and managing data.
+Google Forms can be used to create quizzes, surveys, and feedback forms.
+Responses from forms are automatically stored and organized in Google Sheets.
+These tools support teamwork by allowing easy sharing and real-time collaboration.
+They help in organizing academic work, conducting surveys, and analyzing results efficiently.
