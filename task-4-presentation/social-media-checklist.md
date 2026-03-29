@@ -1,4 +1,4 @@
-# | ✅ Do’s                                        | ❌ Don’ts                                                |
+# | Do’s                                        | Don’ts                                                |
 | --------------------------------------------- | ------------------------------------------------------- |
 ## | Think before posting anything online          | Share personal information like address or phone number |
 ## | Keep your profile professional and respectful | Post offensive or inappropriate content                 |
